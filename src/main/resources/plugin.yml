@@ -1,0 +1,8 @@
+name: MapFixer
+version: ${project.version}
+main: lol.iscoping.mapfixer.MapFixer
+authors: [ 254n_m ]
+description: Fix the fatmc map exploit
+website: https://moo.is-coping.lol
+depend:
+  - ProtocolLib
